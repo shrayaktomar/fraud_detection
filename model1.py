@@ -6,3 +6,5 @@ def model2():
     print("the body of model 2")
 def model3():
     print("the bidy of model 3")
+def model4():
+    print("the body of model 4")
